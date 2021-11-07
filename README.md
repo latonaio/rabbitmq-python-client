@@ -1,10 +1,12 @@
 # rabbitmq-python-client  
-RabbitMQ に接続し、メッセージを送受信するためのシンプルな Python 3 用クライアントライブラリです。  
 
-  
-## 動作環境  
+rabbitmq-python-client は、RabbitMQ に接続し、メッセージを送受信するためのシンプルな、Python 3 ランタイム のための ライブラリです。  
 
-* Python 3.7 以降  
+
+## 動作環境
+* OS: Linux
+* CPU: ARM/AMD/Intel
+* Python Runtime 3.7 以降  
 
 
 ## 導入方法  
